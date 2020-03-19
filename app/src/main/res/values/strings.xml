@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My IoT House</string>
+    <string name="open">OPEN</string>
+    <string name="on">ON</string>
+    <string name="off">OFF</string>
+    <string name="light_control">Light Control</string>
+    <string name="door_lock_control">Doorlock control</string>
+</resources>
